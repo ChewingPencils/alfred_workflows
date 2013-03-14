@@ -13,7 +13,7 @@
 * pfyx  - Trigger my OS X Path Finder tab set [^4]
 * pftp  - Toggle preview pane
 * pfbr  - Batch rename files
-* pfng  - Create a new text file
+* pfnt  - Create a new text file
 * pfdi  - Create new disk image
 * pfhe  - Hex editor
 * pfcs  - Checksum (MD5)
