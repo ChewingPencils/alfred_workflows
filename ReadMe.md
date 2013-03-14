@@ -30,16 +30,16 @@
 
 Not Shown: 
 
-* familypic - Opens a specific directory in a new tab.
-* familyvid - Opens a specific directory in a new tab.
+* familypic - Opens a specific directory in a new tab
+* familyvid - Opens a specific directory in a new tab
 * pstream   - Opens iCloud photostream
 
 NB: I use the very helpful Applescript: `menu_click`, by Jacob Rus
 
-[^1]:Directories: inbox, projects, core, Dropbox, outlines, mind_maps.
+[^1]: Directories: inbox, projects, core, Dropbox, outlines, mind_maps.
 
-[^2: ]Directories: scripts, code, bin.
+[^2]: Directories: scripts, code, bin.
 
-[^3]:Directories: ~, Library, Applications, Mobile Documents, usr; All of my external drives.
+[^3]: Directories: ~, Library, Applications, Mobile Documents, usr; All of my external drives.
 
 [^4]: Saved searches for new or modified files (today, yesterday, week, and month)
