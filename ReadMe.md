@@ -2,7 +2,7 @@
 
 ## An Alfred Workflow For PathFinder
 
-* pfd   - Toggle Dual Pane
+* pfd   - Toggle dual pane
 * pfcr  - Copy selection to right pane
 * pfcl  - Copy selection to left pane
 * pfmr  - Move selection to right pane
