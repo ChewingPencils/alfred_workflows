@@ -19,14 +19,14 @@
 * pfcs - Checksum (MD5)
 * pflw - Label Directory Working (orange)
 * pflc - Clear label
-* pfla - Label - Pay Attention Asshole (red)
+* pfla - Label - Pay Attention,Asshole (red)
 * pfad - Add selection to Drop Stack
 * pfgi - Toggle invisible files
 * pfsp - Swap panes
 * pfgp - Toggle Package contents
-* pfwf - Find Window
-* pfwg - Git Window
-* pfwt - Tags and Rating Window
+* pfwf - Find window
+* pfwg - Git window
+* pfwt - Tags and Rating window
 
 Not Shown: 
 
