@@ -1,6 +1,6 @@
 # Alfred Workflows
 
-## Due.app Tools
+## [Due](http://www.dueapp.com) Tools
 
 * od      - Send Selected OmniFocus tasks to Due.app
 * dam     - Quick Task – Morning (6 AM)
@@ -16,6 +16,10 @@
 * dq      - Create a Sequential Task
 
 NB: The second task created by the sequential task action NEEDS TO BE COMPLETED ON AN iOS DEVICE.
+
+## NerdQuery
+
+Search [NerdQuery](http://nerdquery.com) and displays results in Alfred's item pane.
 
 
 ## An Alfred Workflow For PathFinder
