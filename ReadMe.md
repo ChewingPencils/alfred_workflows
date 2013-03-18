@@ -1,5 +1,23 @@
 # Alfred Workflows
 
+## Due.app Tools
+
+* od      - Send Selected OmniFocus tasks to Due.app
+* dam     - Quick Task – Morning (6 AM)
+* dm      - Quick Task – Middle Day (11:30 PM)
+* ded     - Quick Task – End of the Day (4 PM)
+* de      - Quick Task – Evening (6 PM)
+* dd      - Postpone by One Day
+* dh      - Postpone by One Hour
+* ds      - Postpone by 10 Minutes
+* dpl     - Pomodoro Long Break Timer
+* dps     - Pomodoro Short Break Timer
+* dpw     - Pomodoro Work Timer
+* dq      - Create a Sequential Task
+
+NB: The second task created by the sequential task action NEEDS TO BE COMPLETED ON AN iOS DEVICE.
+
+
 ## An Alfred Workflow For PathFinder
 
 * pfd   - Toggle dual pane
