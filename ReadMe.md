@@ -25,7 +25,8 @@ Search [NerdQuery](http://nerdquery.com) and displays results in Alfred's item p
 ## OneLook.com
 
 A workflow for (OneLook)[http://onelook.com].
-## OneLook Quick Definition ##
+
+### OneLook Quick Definition ###
 
 Returns the Quick Definitions.
 
@@ -56,7 +57,7 @@ CMD+Enter:	Copy selected term to clipboard
 bluebird		- Find definitions of bluebird  
 blue*			- Find words and phrases that start with blue  
 *bird			- Find words and phrases that end with bird  
-bl????rd		- Find words that start with bl, end with rd, and have 4 letters in between
+bl????rd		- Find words that start with bl, end with rd, and have 4 letters in between  
 bl*:snow		- Find words that start with bl and have a meaning related to snow  
 *:snow or :snow		- Find any words related to snow  
 *:winter sport		- Find words related to the concept winter sport  
