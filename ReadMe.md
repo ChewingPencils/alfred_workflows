@@ -29,17 +29,18 @@ A workflow for (OneLook)[http://onelook.com].
 
 Returns the Quick Definitions.
 
-Enter:		Open OpenLink results page.
-CMD+Enter: 	Display definition as Large Text
-CMD+Enter:	Copy definition to clipboard
+* Enter:		Open OpenLink results page.
+* CMD+Enter: 	Display definition as Large Text
+* CMD+Enter:	Copy definition to clipboard
 
 ----
 
 ## OneLook Reverse Look Up ##
 
 Returns results from the the reverse lookup
-Default: 	Open in Safari
-CMD+Enter:	Copy selected term to clipboard
+
+* Enter:     	Open in Safari
+* CMD+Enter:	Copy selected term to clipboard
 
 ----
 
@@ -47,7 +48,7 @@ CMD+Enter:	Copy selected term to clipboard
 
 Returns results from OneLooks Advanced Search
 
-Default: 	Open in Safari
+Enter:   	Open in Safari
 CMD+Enter:	Copy selected term to clipboard
 
 ### Search Examples
