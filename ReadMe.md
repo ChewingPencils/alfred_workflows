@@ -2,18 +2,18 @@
 
 ## [Due](http://www.dueapp.com) Tools
 
-* od      - Send Selected OmniFocus tasks to Due.app
-* dam     - Quick Task – Morning (6 AM)
-* dm      - Quick Task – Middle Day (11:30 PM)
-* ded     - Quick Task – End of the Day (4 PM)
-* de      - Quick Task – Evening (6 PM)
-* dd      - Postpone by One Day
-* dh      - Postpone by One Hour
-* ds      - Postpone by 10 Minutes
-* dpl     - Pomodoro Long Break Timer
-* dps     - Pomodoro Short Break Timer
-* dpw     - Pomodoro Work Timer
-* dq      - Create a Sequential Task
+* od    - Send Selected OmniFocus tasks to Due.app
+* dam   - Quick Task – Morning (6 AM)
+* dm    - Quick Task – Middle Day (11:30 PM)
+* ded   - Quick Task – End of the Day (4 PM)
+* de    - Quick Task – Evening (6 PM)
+* dd    - Postpone by One Day
+* dh    - Postpone by One Hour
+* ds    - Postpone by 10 Minutes
+* dpl   - Pomodoro Long Break Timer
+* dps   - Pomodoro Short Break Timer
+* dpw   - Pomodoro Work Timer
+* dq    - Create a Sequential Task
 
 NB: The second task created by the sequential task action NEEDS TO BE COMPLETED ON AN iOS DEVICE.
 
@@ -21,6 +21,48 @@ NB: The second task created by the sequential task action NEEDS TO BE COMPLETED 
 
 Search [NerdQuery](http://nerdquery.com) and displays results in Alfred's item pane.
 
+
+## OneLook.com
+
+A workflow for (OneLook)[http://onelook.com].
+## OneLook Quick Definition ##
+
+Returns the Quick Definitions.
+
+Enter:		Open OpenLink results page.
+CMD+Enter: 	Display definition as Large Text
+CMD+Enter:	Copy definition to clipboard
+
+----
+
+## OneLook Reverse Look Up ##
+
+Returns results from the the reverse lookup
+Default: 	Open in Safari
+CMD+Enter:	Copy selected term to clipboard
+
+----
+
+## OneLook Bits ## 
+
+Returns results from OneLooks Advanced Search
+
+Default: 	Open in Safari
+CMD+Enter:	Copy selected term to clipboard
+
+### Search Examples
+
+bluebird			- Find definitions of bluebird
+blue*			- Find words and phrases that start with blue
+*bird			- Find words and phrases that end with bird
+bl????rd			- Find words that start with bl, end with rd, and 
+				  have 4 letters in between
+bl*:snow			- Find words that start with bl and have a meaning 
+				  related to snow
+*:snow or :snow	- Find any words related to snow
+*:winter sport	- Find words related to the concept winter sport
+**winter**		- Find phrases that contain the word winter
+expand:nasa		- Find phrases that spell out n.a.s.a.
 
 ## An Alfred Workflow For PathFinder
 
