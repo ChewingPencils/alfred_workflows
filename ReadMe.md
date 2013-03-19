@@ -35,7 +35,7 @@ Returns the Quick Definitions.
 
 ----
 
-## OneLook Reverse Look Up ##
+### OneLook Reverse Look Up ###
 
 Returns results from the the reverse lookup
 
@@ -44,14 +44,14 @@ Returns results from the the reverse lookup
 
 ----
 
-## OneLook Bits ## 
+### OneLook Bits ### 
 
 Returns results from OneLooks Advanced Search
 
 Enter:   	Open in Safari
 CMD+Enter:	Copy selected term to clipboard
 
-### Search Examples
+#### Search Examples
 
 bluebird			- Find definitions of bluebird
 blue*			- Find words and phrases that start with blue
