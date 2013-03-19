@@ -44,7 +44,7 @@ Returns results from the the reverse lookup
 
 
 
-### OneLook Bits ### 
+### OneLook Bits ###
 
 Returns results from OneLooks Advanced Search
 
@@ -53,17 +53,15 @@ CMD+Enter:	Copy selected term to clipboard
 
 #### Search Examples
 
-bluebird			- Find definitions of bluebird
-blue*			- Find words and phrases that start with blue
-*bird			- Find words and phrases that end with bird
-bl????rd			- Find words that start with bl, end with rd, and 
-				  have 4 letters in between
-bl*:snow			- Find words that start with bl and have a meaning 
-				  related to snow
-*:snow or :snow	- Find any words related to snow
-*:winter sport	- Find words related to the concept winter sport
-**winter**		- Find phrases that contain the word winter
-expand:nasa		- Find phrases that spell out n.a.s.a.
+bluebird		- Find definitions of bluebird  
+blue*			- Find words and phrases that start with blue  
+*bird			- Find words and phrases that end with bird  
+bl????rd		- Find words that start with bl, end with rd, and have 4 letters in between
+bl*:snow		- Find words that start with bl and have a meaning related to snow  
+*:snow or :snow		- Find any words related to snow  
+*:winter sport		- Find words related to the concept winter sport  
+**winter**		- Find phrases that contain the word winter  
+expand:nasa		- Find phrases that spell out n.a.s.a.  
 
 ## An Alfred Workflow For PathFinder
 
