@@ -33,7 +33,7 @@ Returns the Quick Definitions.
 * CMD+Enter: 	Display definition as Large Text
 * CMD+Enter:	Copy definition to clipboard
 
-----
+
 
 ### OneLook Reverse Look Up ###
 
@@ -42,7 +42,7 @@ Returns results from the the reverse lookup
 * Enter:     	Open in Safari
 * CMD+Enter:	Copy selected term to clipboard
 
-----
+
 
 ### OneLook Bits ### 
 
