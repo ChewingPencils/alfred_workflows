@@ -15,6 +15,7 @@ Send calendar events to Due
   * Timers
   * Logbook
 * Examples of how I slice my Due reminders lists
+* [OmniFocus Perspective Icons by Icons & Coffee](https://github.com/ChewingPencils/alfred_workflows)
 
 ### OmniFocus
 
