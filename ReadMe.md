@@ -5,6 +5,9 @@
 test
 : definition
 
+sh
+: def
+
 * od    - Send Selected OmniFocus tasks to Due.app
 * dam   - Quick Task – Morning (6 AM)
 * dm    - Quick Task – Middle Day (11:30 PM)
