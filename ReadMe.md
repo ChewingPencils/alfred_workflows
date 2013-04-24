@@ -18,7 +18,7 @@ Send calendar events to Due
 
 ### OmniFocus
 
-**od**
+**do**
 :   Send Selected OmniFocus tasks to Due.app
 
 ### Quick Task Entry (Imitates the the iOS presets)
