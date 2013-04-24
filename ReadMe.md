@@ -99,7 +99,7 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them).
 **dsb**
 :   Search Logbook Panel
 
-**dsu
+**dsu**
 :   Search Reminders for URLs
 
 ### Examples of How I Slice My Due Reminders
