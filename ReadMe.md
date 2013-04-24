@@ -36,7 +36,7 @@ Send calendar events to Due
 :   Quick Task – Evening (6 PM)
 
 
-NB: The times can be adjusted in the 'Run Scripts' Actions (middle column) echo statement
+NB: The times can be adjusted in the 'Run Scripts' Actions (middle column) echo statement.
 
 ### Defer Reminders
 
@@ -50,7 +50,7 @@ NB: The times can be adjusted in the 'Run Scripts' Actions (middle column) echo 
 :   Postpone by 10 Minutes
 
 
-NB: These trigger the defined keyboard shortcuts (I can never remember them)
+NB: These trigger the defined keyboard shortcuts (I can never remember them).
 
 ### Pomodoro Timers
 
@@ -104,15 +104,15 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them)
 
 ### Examples of How I Slice My Due Reminders
 
-* I shove a lot of stuff in Due that a lot of folks might add to OmniFocus or Things
-    * Any task that pop up and needs to be completed the same day
+* I shove a lot of stuff in Due–I use a defined naming convention to list the differnt reminder types
+    * Any task that pops up and needs to be completed the same day
     * Deferred Toots
     * Deferred SMS
     * Consumables (Usually Triggered by Bookmarklets which I've included)
 * I use a unicode Trigram as a delimiter for these types of reminders
     * Thunder - "inciting movement"
 * These actions should be deleted / modified to fit your needs
-* Any actions which are not triggered by bookmark lets have matching Drafts actions.
+* Any actions which are not triggered by bookmarklets have matching Drafts actions.
 
 **dt**
 :   Create a Today Reminder
