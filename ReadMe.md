@@ -19,21 +19,21 @@ Send calendar events to Due
 
 ### OmniFocus
 
-**do**
+**;do**
 :   Send Selected OmniFocus tasks to Due.app
 
 ### Quick Task Entry (Imitates the the iOS presets)
 
-**dam**
+**;dam**
 :   Quick Task – Morning (6 AM)
 
-**dm**
+**;dm**
 :   Quick Task – Middle Day (11:30 PM)
 
-**ded**
+**;ded**
 :   Quick Task – End of the Day (4 PM)
 
-**de**
+**;de**
 :   Quick Task – Evening (6 PM)
 
 
@@ -41,13 +41,13 @@ NB: The times can be adjusted in the 'Run Scripts' Actions (middle column) echo 
 
 ### Defer Reminders
 
-**dd**
+**;dd**
 :   Postpone by One Day
 
-**dh**
+**;dh**
 :   Postpone by One Hour
 
-**ds**
+**;ds**
 :   Postpone by 10 Minutes
 
 
@@ -55,13 +55,13 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them).
 
 ### Pomodoro Timers
 
-**dpl**
+**;dpl**
 :   Pomodoro Long Break Timer (15 Min)
 
-**dps**
+**;dps**
 :   Pomodoro Short Break Timer (5 Min)
     
-**dpw**
+**;dpw**
 :   Pomodoro Work Timer (25 Min)
  
 #### Pomodoro Timers Notes
@@ -73,7 +73,7 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them).
     * 25 Minutes Timer
 * If you use different Timer names, adjust the 'Run Scripts' Actions (middle column) echo statement.
 
-**dq**
+**;dq**
 :   Create a Sequential Task
 
 #### Sequential Tasks Notes
@@ -83,24 +83,24 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them).
 
 ### Create a Reminder for Calendar Events
 
-**dce**
+**;dce**
 :   BusyCal Event to Due (Create a Due reminder from a selected BusyCal event)
 
-**dcce**
+**;dcce**
 :   OS X Calendar to Due (Create a Due reminder from a selected calendar event)
 
 ### Search Reminders, Timers and Logbook
 
-**dsr**
+**;dsr**
 :   Search Reminders Panel
 
-**dsm**
+**;dsm**
 :   Search Timers Panel
 
-**dsb**
+**;dsb**
 :   Search Logbook Panel
 
-**dsu**
+**;dsu**
 :   Search Reminders for URLs
 
 ### Examples of How I Slice My Due Reminders
@@ -115,35 +115,48 @@ NB: These trigger the defined keyboard shortcuts (I can never remember them).
 * These actions should be deleted / modified to fit your needs
 * Any actions which are not triggered by bookmarklets have matching Drafts actions.
 
-**dt**
+**;dt**
 :   Create a Today Reminder
 
-**dj**
-:   Create s Journal Reminder
+**;dj**
+:   Create a Journal Reminder
 
-**dst*
+**;dst**
 :   List Today Reminders
 
-**dso**
+**;dso**
 :   List Deferred Toot Reminders
 
-**dss**
+**;dss**
 :   List Deferred SMS Reminders
 
-**dsr**
+**;dsr**
 : List Items to Read
 
-**dsc**
+**;dsc**
 : List Items to Check Out (Apps, Websites, Etc.)
 
-**dsl**
+**;dsl**
 : List Items to Listen to (Random Podcasts)
 
-**dsw**
+**;dsw**
 : List Items to Watch
 
-**dsj**
+**;dsj**
 : List Items to Journal
+
+### Adjust Alert Sounds
+
+**;dan**
+:	Remove Alert Sound From Reminder
+
+**;dah**
+:	Set Alert Sound for Must Do Reminder
+:	Sonar (1s)
+
+**;dah**
+:	Set Alert Sound for Default
+:	Coin (1s)
 
 ## NerdQuery
 
