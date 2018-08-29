@@ -22,7 +22,7 @@ Send calendar events to Due
 **;do**
 :   Send Selected OmniFocus tasks to Due.app
 
-### Quick Task Entry (Imitates the the iOS presets)
+### Quick Task Entry (Imitates the iOS presets)
 
 **;dam**
 :   Quick Task – Morning (6 AM)
@@ -179,7 +179,7 @@ Returns the Quick Definitions.
 
 ### OneLook Reverse Look Up ###
 
-Returns results from the the reverse lookup
+Returns results from the reverse lookup
 
 * Enter:     	Open in Safari
 * CMD+Enter:	Copy selected term to clipboard
